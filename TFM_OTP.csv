@@ -1,4 +1,4 @@
-Telfono;Operadora;transaccion;fecha_hora
+﻿en_telefono;en_operadora;en_mensaje;en_srv_hora_env
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $4.86 en UBER *TRIP;2023-01-01 04:52:48.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $34.20 en GOOGLE GSUITE_taoad;2023-01-01 07:45:04.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.90 en UBER * PENDING;2023-01-01 21:08:22.000
