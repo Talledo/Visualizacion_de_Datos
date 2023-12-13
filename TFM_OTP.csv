@@ -1014,7 +1014,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $2.56 en UBER *TRIP;2023-03-17 10:00:56.000
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $79.00 en WOOCOMM 18734001686;2023-03-17 10:22:11.000
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $5.99 en PAYPAL *GODADDY.COM;2023-03-17 10:57:37.000
-0996544914;M;Registramos un consumo en DON CHEF-LA SUIZA DEL VALSAN RAFAEL   EC con tu tarjeta Visa Débito Produbanco por $103.80. Si no lo realizaste llama al 1700123123;2023-03-17 10:59:19.000
+0996544914;M;Registramos un consumo en DON CHEF-LA SUIZA DEL VALSAN RAFAEL   EC con tu tarjeta Visa DÃ©bito Produbanco por $103.80. Si no lo realizaste llama al 1700123123;2023-03-17 10:59:19.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $1.88 en UBR* PENDING.UBER.C;2023-03-17 11:58:48.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $2.51 en UBR* PENDING.UBER.C;2023-03-17 12:18:11.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $3853.47 en UNIVERSIDAD DE NAVA;2023-03-17 12:43:20.000
@@ -1045,8 +1045,8 @@ Telfono;Operadora;transaccion;fecha_hora
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $5.73 en UBER * PENDING;2023-03-17 20:55:05.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $18.38 en UBR* PENDING.UBER.C;2023-03-17 21:25:58.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $18.45 en UBER *TRIP;2023-03-17 22:12:01.000
-0999023282;P;Registramos un consumo en LA PATA GORDA VIA CUMBAYAQUITO        EC con tu tarjeta Visa Débito Produbanco por $59.30. Si no lo realizaste llama al 1700123123;2023-03-17 22:17:43.000
-0999023282;P;Registramos un consumo en LA PATA GORDA VIA CUMBAYAQUITO        EC con tu tarjeta Visa Débito Produbanco por $61.31. Si no lo realizaste llama al 1700123123;2023-03-17 22:24:15.000
+0999023282;P;Registramos un consumo en LA PATA GORDA VIA CUMBAYAQUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $59.30. Si no lo realizaste llama al 1700123123;2023-03-17 22:17:43.000
+0999023282;P;Registramos un consumo en LA PATA GORDA VIA CUMBAYAQUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $61.31. Si no lo realizaste llama al 1700123123;2023-03-17 22:24:15.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $6.20 en UBR* PENDING.UBER.C;2023-03-17 22:24:25.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $2.00 en UBER *TRIP;2023-03-17 22:55:06.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $5.55 en UBR* PENDING.UBER.C;2023-03-18 00:40:30.000
@@ -1317,7 +1317,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $8.74 en UBER *TRIP;2023-03-28 18:59:46.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $3.19 en UBR* PENDING.UBER.C;2023-03-28 18:59:46.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $3.87 en UBR* PENDING.UBER.C;2023-03-28 19:01:44.000
-0999023282;P;Registramos un consumo en MEGAKYWI GRANADOS        QUITO        EC con tu tarjeta Visa Débito Produbanco por $81.58. Si no lo realizaste llama al 1700123123;2023-03-28 19:40:00.000
+0999023282;P;Registramos un consumo en MEGAKYWI GRANADOS        QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $81.58. Si no lo realizaste llama al 1700123123;2023-03-28 19:40:00.000
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $600.00 en FACEBK 2D9QXMPUL2;2023-03-28 22:07:49.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $3.90 en UBR* PENDING.UBER.C;2023-03-29 07:10:55.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $6.45 en UBR* PENDING.UBER.C;2023-03-29 07:33:44.000
@@ -1658,7 +1658,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $90.89 en PAYPAL *RAPPI;2023-04-09 15:00:35.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $500.00 en Google ADS392995544;2023-04-09 15:07:45.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $1.84 en UBR* PENDING.UBER.C;2023-04-09 15:17:48.000
-0999023282;P;Registramos un consumo en QUITOLINDO/HOTEL QUITO   QUITO        EC con tu tarjeta Visa Débito Produbanco por $51.71. Si no lo realizaste llama al 1700123123;2023-04-09 15:32:33.000
+0999023282;P;Registramos un consumo en QUITOLINDO/HOTEL QUITO   QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $51.71. Si no lo realizaste llama al 1700123123;2023-04-09 15:32:33.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $47.84 en PAYPAL *RAPPI;2023-04-09 15:45:51.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $30.71 en UBR* PENDING.UBER.C;2023-04-09 16:03:01.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $15.21 en PAYPAL *RAPPI;2023-04-09 17:19:15.000
@@ -1715,7 +1715,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $2.77 en UBER * PENDING;2023-04-10 16:06:46.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $4.15 en UBR* PENDING.UBER.C;2023-04-10 16:13:12.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $3.84 en UBER *TRIP;2023-04-10 16:33:23.000
-0999023282;P;Registramos un consumo en AUTO ESPECIALIDADES      UIO          EC con tu tarjeta Visa Débito Produbanco por $255.04. Si no lo realizaste llama al 1700123123;2023-04-10 16:40:29.000
+0999023282;P;Registramos un consumo en AUTO ESPECIALIDADES      UIO          EC con tu tarjeta Visa DÃ©bito Produbanco por $255.04. Si no lo realizaste llama al 1700123123;2023-04-10 16:40:29.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $52.57 en PAYPAL *RAPPI;2023-04-10 17:39:05.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $2.49 en UBER * PENDING;2023-04-10 17:44:27.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $2.63 en UBER *TRIP;2023-04-10 18:19:23.000
@@ -1847,7 +1847,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $3.42 en UBR* PENDING.UBER.C;2023-04-14 12:09:39.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $140.82 en HOTEL PARQUE 97 SUI;2023-04-14 12:14:40.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.80 en UBR* PENDING.UBER.C;2023-04-14 12:16:10.000
-0996544914;M;Registramos un consumo en MUNDO HERRAJES           SANGOLQUI    EC con tu tarjeta Visa Débito Produbanco por $179.18. Si no lo realizaste llama al 1700123123;2023-04-14 14:53:41.000
+0996544914;M;Registramos un consumo en MUNDO HERRAJES           SANGOLQUI    EC con tu tarjeta Visa DÃ©bito Produbanco por $179.18. Si no lo realizaste llama al 1700123123;2023-04-14 14:53:41.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $7.91 en UBER *TRIP;2023-04-14 15:24:46.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $2.89 en UBER *TRIP HELP.UBE;2023-04-14 16:40:56.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $2.74 en UBR* PENDING.UBER.C;2023-04-14 18:08:27.000
@@ -3667,7 +3667,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $7.09 en UBER *TRIP;2023-06-08 18:33:35.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $3.14 en UBR* PENDING.UBER.C;2023-06-08 18:43:54.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $7.26 en UBER *TRIP;2023-06-08 19:03:23.000
-0999023282;P;Registramos un consumo en LA BRICIOLA              QUITO        EC con tu tarjeta Visa Débito Produbanco por $59.68. Si no lo realizaste llama al 1700123123;2023-06-08 22:10:17.000
+0999023282;P;Registramos un consumo en LA BRICIOLA              QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $59.68. Si no lo realizaste llama al 1700123123;2023-06-08 22:10:17.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $150.13 en LINKEDIN ADS*125063;2023-06-09 06:37:28.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $5.81 en UBR* PENDING.UBER.C;2023-06-09 06:37:57.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $188.97 en NYX PMU GRAN VIA;2023-06-09 07:00:02.000
@@ -3818,8 +3818,8 @@ Telfono;Operadora;transaccion;fecha_hora
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $1.69 en UBR* PENDING.UBER.C;2023-06-13 16:48:54.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $1.84 en UBR* PENDING.UBER.C;2023-06-13 17:21:21.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $4.47 en UBR* PENDING.UBER.C;2023-06-13 17:48:16.000
-0995610334;P;Registramos un consumo en MR BOOKS EL CONDADO      QUITO        EC con tu tarjeta Visa Débito Produbanco por $56.00. Si no lo realizaste llama al 1700123123;2023-06-13 18:24:43.000
-0995610334;P;Registramos un consumo en MR BOOKS EL CONDADO      QUITO        EC con tu tarjeta Visa Débito Produbanco por $50.00. Si no lo realizaste llama al 1700123123;2023-06-13 18:26:03.000
+0995610334;P;Registramos un consumo en MR BOOKS EL CONDADO      QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $56.00. Si no lo realizaste llama al 1700123123;2023-06-13 18:24:43.000
+0995610334;P;Registramos un consumo en MR BOOKS EL CONDADO      QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $50.00. Si no lo realizaste llama al 1700123123;2023-06-13 18:26:03.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $2.92 en UBER *TRIP HELP.UBE;2023-06-13 18:27:29.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $5.07 en UBR* PENDING.UBER.C;2023-06-13 18:46:39.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $4.26 en UBR* PENDING.UBER.C;2023-06-13 18:46:40.000
@@ -4787,8 +4787,8 @@ Telfono;Operadora;transaccion;fecha_hora
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $6.15 en UBER *TRIP;2023-07-08 09:19:17.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $19.52 en PAYPAL *AUDIOTEKA S;2023-07-08 11:05:09.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $1.94 en UBER * PENDING;2023-07-08 11:07:31.000
-0995610334;P;Registramos un consumo en STEVE MADDEN QUICENTRO   QUITO        EC con tu tarjeta Visa Débito Produbanco por $50.00. Si no lo realizaste llama al 1700123123;2023-07-08 11:25:56.000
-0995610334;P;Registramos un consumo en MAXITEC EL JARDIN LC 982 QUITO        EC con tu tarjeta Visa Débito Produbanco por $89.78. Si no lo realizaste llama al 1700123123;2023-07-08 12:01:44.000
+0995610334;P;Registramos un consumo en STEVE MADDEN QUICENTRO   QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $50.00. Si no lo realizaste llama al 1700123123;2023-07-08 11:25:56.000
+0995610334;P;Registramos un consumo en MAXITEC EL JARDIN LC 982 QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $89.78. Si no lo realizaste llama al 1700123123;2023-07-08 12:01:44.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $1.87 en UBR* PENDING.UBER.C;2023-07-08 14:41:04.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $1.87 en UBR* PENDING.UBER.C;2023-07-08 16:22:54.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $5.94 en UBR* PENDING.UBER.C;2023-07-08 17:59:42.000
@@ -4897,7 +4897,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $19.33 en UBR* PENDING.UBER.C;2023-07-11 19:42:22.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $5.55 en UBER *TRIP;2023-07-12 02:43:27.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $7.86 en UBER * PENDING;2023-07-12 05:51:35.000
-0995610334;P;Registramos un consumo en METROAMBULAT S.A.        LOS CHILLOS  EC con tu tarjeta Visa Débito Produbanco por $230.50. Si no lo realizaste llama al 1700123123;2023-07-12 06:46:59.000
+0995610334;P;Registramos un consumo en METROAMBULAT S.A.        LOS CHILLOS  EC con tu tarjeta Visa DÃ©bito Produbanco por $230.50. Si no lo realizaste llama al 1700123123;2023-07-12 06:46:59.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $1.69 en UBER * PENDING;2023-07-12 07:09:08.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $5.99 en UBER * PENDING;2023-07-12 07:23:08.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $2.49 en UBR* PENDING.UBER.C;2023-07-12 07:39:54.000
@@ -5060,11 +5060,11 @@ Telfono;Operadora;transaccion;fecha_hora
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $3.07 en UBR* PENDING.UBER.C;2023-07-15 14:10:42.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $5.87 en UBR* PENDING.UBER.C;2023-07-15 14:17:45.000
 0996544914;M;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $4.20 en UBER *TRIP HELP.UBE;2023-07-15 14:31:54.000
-0995610334;P;Registramos un consumo en BIG BOY TOYS STORE       QUITO        EC con tu tarjeta Visa Débito Produbanco por $59.00. Si no lo realizaste llama al 1700123123;2023-07-15 14:55:11.000
+0995610334;P;Registramos un consumo en BIG BOY TOYS STORE       QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $59.00. Si no lo realizaste llama al 1700123123;2023-07-15 14:55:11.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $6.16 en UBR* PENDING.UBER.C;2023-07-15 15:19:05.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.83 en UBR* PENDING.UBER.C;2023-07-15 15:59:12.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $2.81 en UBER *TRIP;2023-07-15 19:24:54.000
-0995610334;P;Registramos un consumo en HIPERMARKET MITAD DEL MUNQUITO        EC con tu tarjeta Visa Débito Produbanco por $60.14. Si no lo realizaste llama al 1700123123;2023-07-15 20:42:17.000
+0995610334;P;Registramos un consumo en HIPERMARKET MITAD DEL MUNQUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $60.14. Si no lo realizaste llama al 1700123123;2023-07-15 20:42:17.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $3.06 en UBR* PENDING.UBER.C;2023-07-15 20:45:38.000
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $75.00 en FACEBK YBBELR7MC2;2023-07-15 21:23:03.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.01 en UBER *TRIP HELP.UBE;2023-07-15 22:09:47.000
@@ -5477,7 +5477,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $13.23 en PAYPAL *RAPPI;2023-07-29 10:17:24.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.09 en UBR* PENDING.UBER.C;2023-07-29 11:07:27.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.11 en UBER *TRIP;2023-07-29 20:58:34.000
-0995610334;P;Registramos un consumo en HIPERMARKET MITAD DEL MUNQUITO        EC con tu tarjeta Visa Débito Produbanco por $77.47. Si no lo realizaste llama al 1700123123;2023-07-30 13:44:31.000
+0995610334;P;Registramos un consumo en HIPERMARKET MITAD DEL MUNQUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $77.47. Si no lo realizaste llama al 1700123123;2023-07-30 13:44:31.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $1.66 en UBER * PENDING;2023-07-30 13:51:48.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $8.46 en UB *EATS ECUADOR;2023-07-30 15:08:15.000
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $128.38 en FACEBK BQR7QQPMC2;2023-07-30 22:38:56.000
@@ -5705,7 +5705,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $38.19 en PAYPAL *RAPPI;2023-08-06 12:33:38.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $4.79 en UBR* PENDING.UBER.C;2023-08-06 13:18:26.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $25.39 en UBER *TRIP HELP.UBE;2023-08-06 14:47:43.000
-0995610334;P;Registramos un consumo en HIPERMARKET MITAD DEL MUNQUITO        EC con tu tarjeta Visa Débito Produbanco por $204.24. Si no lo realizaste llama al 1700123123;2023-08-06 18:28:04.000
+0995610334;P;Registramos un consumo en HIPERMARKET MITAD DEL MUNQUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $204.24. Si no lo realizaste llama al 1700123123;2023-08-06 18:28:04.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $1.92 en UBR* PENDING.UBER.C;2023-08-06 18:41:53.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $5.27 en PAYPAL *RAPPI;2023-08-06 20:15:56.000
 0998874747;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4214 por un monto de $6.32 en FACEBK *793FUS7YD2;2023-08-07 03:55:51.000
@@ -7759,7 +7759,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $88.93 en GOOGLE *ADS60924349;2023-10-01 09:23:04.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $7.66 en UBER * PENDING;2023-10-01 12:47:55.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $7.92 en UBER *TRIP;2023-10-01 13:30:39.000
-0995610334;P;Registramos un consumo en TECNOPOLIS               UIO          EC con tu tarjeta Visa Débito Produbanco por $299.00. Si no lo realizaste llama al 1700123123;2023-10-01 13:40:41.000
+0995610334;P;Registramos un consumo en TECNOPOLIS               UIO          EC con tu tarjeta Visa DÃ©bito Produbanco por $299.00. Si no lo realizaste llama al 1700123123;2023-10-01 13:40:41.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $1.69 en UBR* PENDING.UBER.C;2023-10-01 14:07:26.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $2.47 en UBR* PENDING.UBER.C;2023-10-01 14:08:31.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $2.49 en UBER *TRIP;2023-10-01 14:39:11.000
@@ -8614,12 +8614,12 @@ Telfono;Operadora;transaccion;fecha_hora
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $5.57 en UBER *TRIP;2023-10-29 12:39:14.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.50 en UBR* PENDING.UBER.C;2023-10-29 12:53:34.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $14.41 en PAYPAL *AUDIOTEKA S;2023-10-29 13:33:30.000
-0995610334;P;Registramos un consumo en HIPER PRENSA             QUITO        EC con tu tarjeta Visa Débito Produbanco por $51.02. Si no lo realizaste llama al 1700123123;2023-10-29 17:20:58.000
+0995610334;P;Registramos un consumo en HIPER PRENSA             QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $51.02. Si no lo realizaste llama al 1700123123;2023-10-29 17:20:58.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $25.57 en PAYPAL *RAPPI;2023-10-29 19:11:35.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $21.07 en PAYPAL *AUDIOTEKA S;2023-10-29 20:02:43.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $18.85 en PAYPAL *AUDIOTEKA S;2023-10-29 20:05:12.000
 0999950030;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX6016 por un monto de $18.85 en PAYPAL *AUDIOTEKA S;2023-10-29 20:07:32.000
-0995610334;P;Registramos un consumo en REN SUSHI                QUITO        EC con tu tarjeta Visa Débito Produbanco por $55.00. Si no lo realizaste llama al 1700123123;2023-10-29 20:14:44.000
+0995610334;P;Registramos un consumo en REN SUSHI                QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $55.00. Si no lo realizaste llama al 1700123123;2023-10-29 20:14:44.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.36 en UBR* PENDING.UBER.C;2023-10-29 20:20:08.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.44 en UBER *TRIP;2023-10-29 20:39:14.000
 0996544914;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $6.89 en UBR* PENDING.UBER.C;2023-10-29 22:28:45.000
@@ -8814,7 +8814,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $2.26 en UBR* PENDING.UBER.C;2023-11-04 20:22:25.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $8.60 en UBR* PENDING.UBER.C;2023-11-05 08:45:58.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $8.95 en UBER *TRIP;2023-11-05 09:25:01.000
-0995610334;P;Registramos un consumo en LUNACORP SA              QUITO        EC con tu tarjeta Visa Débito Produbanco por $72.80. Si no lo realizaste llama al 1700123123;2023-11-05 12:28:45.000
+0995610334;P;Registramos un consumo en LUNACORP SA              QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $72.80. Si no lo realizaste llama al 1700123123;2023-11-05 12:28:45.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $6.50 en UBR* PENDING.UBER.C;2023-11-05 13:14:18.000
 0999950030;P;Confirmamos consumo con su tarjeta MasterCard PRODUBANCO XXX0129 por un monto de $146.13 en FACEBK VND2VTPW32;2023-11-05 15:42:46.000
 0996544914;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $22.24 en UBR* PENDING.UBER.C;2023-11-05 18:17:17.000
@@ -9878,7 +9878,7 @@ Telfono;Operadora;transaccion;fecha_hora
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $1.00 en UBER *TRIP;2023-12-01 20:01:35.000
 0996544914;B;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX5518 por un monto de $207.55 en UBER *TRIP;2023-12-01 21:20:00.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $6.50 en UBR* PENDING.UBER.C;2023-12-01 21:48:23.000
-0995610334;P;Registramos un consumo en ATIMASA E/S RUBEN-TIEN   QUITO        EC con tu tarjeta Visa Débito Produbanco por $83.70. Si no lo realizaste llama al 1700123123;2023-12-02 02:10:13.000
+0995610334;P;Registramos un consumo en ATIMASA E/S RUBEN-TIEN   QUITO        EC con tu tarjeta Visa DÃ©bito Produbanco por $83.70. Si no lo realizaste llama al 1700123123;2023-12-02 02:10:13.000
 0995610334;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX4903 por un monto de $7.79 en UBR* PENDING.UBER.C;2023-12-02 03:30:01.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $3.50 en UBR* PENDING.UBER.C;2023-12-02 07:42:25.000
 0999023282;P;Confirmamos consumo con su tarjeta Visa PRODUBANCO XXX3111 por un monto de $5.59 en UBR* PENDING.UBER.C;2023-12-02 07:45:27.000
